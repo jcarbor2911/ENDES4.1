@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("Resta: " + calc.restar(a, b));
 		// === BLOQUE A (solo Alumno A) ===
 		// === BLOQUE B (solo Alumno B) ===
+		System.out.println("Multiplica: " + calc.multiplicar(a, b));
 	}
 }
