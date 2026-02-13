@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("Etiqueta: " + etiqueta);
 		System.out.println("Suma: " + calc.sumar(a, b));
 		System.out.println("Resta: " + calc.restar(a, b));
-		// === BLOQUE A (solo Alumno A) ===
+		// === BLOQUE A (solo Alumno A) ===  
 		// === BLOQUE B (solo Alumno B) ===
 		// === BLOQUE C (solo Alumno C) ===
 		System.out.println("DIVIDE: " + calc.dividir(a, b)); 
