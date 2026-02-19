@@ -13,8 +13,11 @@ public class Main {
 		Saludo s = new Saludo();
 		System.out.println(s.saludar("DAW"));
 		
-
-		
 		// === BLOQUE B (solo Alumno B) ===
+		System.out.println("Multiplica: " + calc.multiplicar(a, b));
+
+		// === BLOQUE C (solo Alumno C) ===
+		System.out.println("Divide: " + calc.dividir(a, b));
+
 	}
 }
